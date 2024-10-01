@@ -5,7 +5,7 @@
 The Hospital Management System database was designed to manage various aspects of hospital operations, including patient management, physician management, appointments, room allocation, and billing. This documentation provides an overview of the database schema, the tables, views, functions, procedures, and triggers implemented to support efficient data management within the hospital.
 
 ## 2. **Database Schema**
-The database schema, named `student100`, includes the following key components:
+The database schema, named `hospitaldb`, includes the following key components:
 - Tables
 - Views
 - Functions
